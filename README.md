@@ -1,1 +1,1 @@
-# Introduction_to_Robotics
+# Repository for the Introduction to Robotics course.
