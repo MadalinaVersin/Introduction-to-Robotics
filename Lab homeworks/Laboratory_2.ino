@@ -19,7 +19,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   int podValr = analogRead(podPinr);
-  podValr = map(podValr,0,1023,0,255);
+  podValr = map(podValr, 0, 1023, 0, 255);
 
   int podValg = analogRead(podPing);
   podValg = map(podValg, 0, 1023, 0, 255);
