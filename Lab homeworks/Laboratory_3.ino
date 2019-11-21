@@ -22,13 +22,13 @@ void loop() {
   // put your main code here, to run repeatedly:
   speakerValue = analogRead(speakerPin);
   
-  if(speakerValue != 0)
+  if (speakerValue != 0)
   Serial.println(speakerValue);
   
-  if(speakerValue > threshold){
+  if (speakerValue > threshold) {
     Serial.println("Knock");
     last = millis();
-    if(millis() - last > 5000){
+    if (millis() - last > 5000) {
     start = 1;
   }
  }
@@ -37,7 +37,7 @@ void loop() {
 
   buttonState = digitalRead(pushButton);
   
-   if(buttonState == LOW && start == 1){
+   if (buttonState == LOW && start == 1) {
     noTone(buzzerPin);
     start = 0;
    }
