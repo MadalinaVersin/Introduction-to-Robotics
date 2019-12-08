@@ -2,7 +2,7 @@ SNAKE ON ARDUINO
 
 
 This project contains a game.
-Name of the game: Snake
+Name of the game: Snake 
 
 
 Hardware used on building the game:
