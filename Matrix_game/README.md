@@ -19,4 +19,5 @@ Hardware used on building the game:
        -The highscore will be saved in EEPROM.
        -A menu appears on the LCD display, if you press Play game , the game starts, and on the LCD display will appear information relevant to the game (score, number of lives, level), if you click on HighScore you can see the highest score so far. From the settings field you can set the level of the game and the light intensity in the matrix.In info you can see information about the creator of the game (name and github)and the name of the game.
        -To enter and exit a menu field, press the joystick's button. 
+       -Link : https://www.youtube.com/watch?v=4O0ckNG-Rs4
 
