@@ -23,7 +23,7 @@ After making these pieces I used a wooden stand where I fastened them and made t
 
 <p><img src = "https://user-images.githubusercontent.com/50883586/75286373-1e13ca80-5821-11ea-8864-32ba20c5d536.jpg"height="600" width=600" ></p>
 
-<p>I made the plate according to the following scheme</p>
+<p>I made the plate according to the following scheme.</p>
 <img src = "https://user-images.githubusercontent.com/50883586/75287722-8fed1380-5823-11ea-93d2-0031d5c4f048.png" height = "600" 
 width = " 600 ">
 <img src = "https://user-images.githubusercontent.com/50883586/75287975-0be75b80-5824-11ea-908c-74ea8c119943.jpg" height = " 600 "
