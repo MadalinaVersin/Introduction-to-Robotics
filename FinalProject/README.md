@@ -15,11 +15,13 @@
   <li>wires</li>
 </ul>
 
-<p>Two spaces at the end of a line<br />
-produces a line break.</p>
+<p>I used copper wires to connect the LEDs between them.</p>
 
-<p>Text attributes <em>italic</em>, 
-<strong>bold</strong>, <code>monospace</code>.</p>
+<p>
+I connected four LEDs vertically, for each color I used one copper wire. after I made 4 pieces of them I also connected the ground on the horizontal.
+after making these pieces I used a wooden stand where I fastened them and made the appropriate connections for the ground again.</p>
+<p><img alt="Image" title="icon" src="Icon-pictures.png" /></p>
+
 
 <p>Horizontal rule:</p>
 
@@ -44,9 +46,7 @@ produces a line break.</p>
 <li>repeat</li>
 </ol>
 
-<p>An <a href="http://example.com">example</a>.</p>
-
-<p><img alt="Image" title="icon" src="Icon-pictures.png" /></p>
+<p><img alt="Image" title="icon" src="POZ8.jpg" /></p>
 
 <blockquote>
 <p>Markdown uses email-style &gt; characters for blockquoting.</p>
