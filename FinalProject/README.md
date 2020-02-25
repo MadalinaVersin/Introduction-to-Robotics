@@ -20,7 +20,9 @@
 <p>
 I connected four LEDs vertically, for each color I used one copper wire. after I made 4 pieces of them I also connected the ground on the horizontal.
 After making these pieces I used a wooden stand where I fastened them and made the appropriate connections for the ground again.</p>
-![POZ8](https://user-images.githubusercontent.com/50883586/75286373-1e13ca80-5821-11ea-8864-32ba20c5d536.jpg)
+
+<p><img src = "https://user-images.githubusercontent.com/50883586/75286373-1e13ca80-5821-11ea-8864-32ba20c5d536.jpg"></p>
+
 
 
 
