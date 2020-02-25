@@ -12,7 +12,7 @@
     <li>1 - 10 ohm</li>
   </ul>
 <li>4 - 2n2222 transistor</li>
-  <li>7 - SN74HC595N driver</li>
+  <li>7 - SN74HC595N </li>
   <li>wires</li>
 </ul>
 
