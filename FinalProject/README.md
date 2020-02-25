@@ -2,7 +2,7 @@
 <h1>RGB Led Cube </h1>
 
 
-<p>For the realization of the project we used the following components:</p>
+<p>To carry out the project we used:</p>
 <ul>
 <li>64 - RGB LED</li>
 <li>resistors</li>
@@ -12,6 +12,7 @@
     <li>1 - 10 ohm</li>
   </ul>
 <li>4 - 2n2222 transistor</li>
+  <li>wires</li>
 </ul>
 
 <p>Two spaces at the end of a line<br />
