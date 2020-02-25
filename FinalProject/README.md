@@ -46,7 +46,8 @@ after making these pieces I used a wooden stand where I fastened them and made t
 <li>repeat</li>
 </ol>
 
-<p><img alt="Image" title="icon" src="POZ8.jpg" /></p>
+![POZ8](https://user-images.githubusercontent.com/50883586/75286373-1e13ca80-5821-11ea-8864-32ba20c5d536.jpg)
+
 
 <blockquote>
 <p>Markdown uses email-style &gt; characters for blockquoting.</p>
